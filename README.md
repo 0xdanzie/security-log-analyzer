@@ -162,7 +162,7 @@ The project uses only modules available in the Python standard library, so no th
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/0xdanzie/security-log-analyzer.git
 ```
 
 ### 2. Move into the project directory
