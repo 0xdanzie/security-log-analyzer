@@ -1,0 +1,39 @@
+{
+    "summary": {
+        "total_events": 16,
+        "failed_login_events": 12,
+        "successful_login_events": 2,
+        "unknown_events": 2
+    },
+    "ip_analysis": [
+        {
+            "ip_address": "192.168.1.50",
+            "failed_attempts": 4,
+            "targeted_users": [
+                "admin",
+                "root",
+                "test"
+            ],
+            "risk_level": "MEDIUM",
+            "suspicious": true
+        },
+        {
+            "ip_address": "10.0.0.15",
+            "failed_attempts": 2,
+            "targeted_users": [
+                "root"
+            ],
+            "risk_level": "LOW",
+            "suspicious": false
+        },
+        {
+            "ip_address": "203.0.113.45",
+            "failed_attempts": 6,
+            "targeted_users": [
+                "root"
+            ],
+            "risk_level": "HIGH",
+            "suspicious": true
+        }
+    ]
+}

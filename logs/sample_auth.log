@@ -1,0 +1,16 @@
+Jul 07 09:12:15 server sshd[1021]: Failed password for invalid user admin from 192.168.1.50 port 49152 ssh2
+Jul 07 09:12:19 server sshd[1022]: Failed password for invalid user admin from 192.168.1.50 port 49153 ssh2
+Jul 07 09:12:25 server sshd[1023]: Failed password for root from 192.168.1.50 port 49154 ssh2
+Jul 07 09:13:01 server sshd[1024]: Accepted password for danish from 192.168.1.25 port 50231 ssh2
+Jul 07 09:15:42 server sshd[1025]: Failed password for root from 10.0.0.15 port 44121 ssh2
+Jul 07 09:16:03 server sshd[1026]: Failed password for root from 10.0.0.15 port 44122 ssh2
+Jul 07 09:20:11 server sshd[1027]: Accepted password for admin from 172.16.0.10 port 55210 ssh2
+Jul 07 09:25:37 server sshd[1028]: Failed password for invalid user test from 192.168.1.50 port 49160 ssh2
+Jul 07 10:01:11 server sshd[1029]: Failed password for root from 203.0.113.45 port 60101 ssh2
+Jul 07 10:01:13 server sshd[1030]: Failed password for root from 203.0.113.45 port 60102 ssh2
+Jul 07 10:01:15 server sshd[1031]: Failed password for root from 203.0.113.45 port 60103 ssh2
+Jul 07 10:01:17 server sshd[1032]: Failed password for root from 203.0.113.45 port 60104 ssh2
+Jul 07 10:01:19 server sshd[1033]: Failed password for root from 203.0.113.45 port 60105 ssh2
+Jul 07 10:01:21 server sshd[1034]: Failed password for root from 203.0.113.45 port 60106 ssh2
+Jul 07 10:05:00 server sshd[1035]: Connection closed by 192.168.1.99 port 50100
+Jul 07 10:06:00 server sshd[1036]: Authentication service unavailable

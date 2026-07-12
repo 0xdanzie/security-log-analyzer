@@ -1,0 +1,30 @@
+============================================================
+SECURITY LOG ANALYSIS REPORT
+============================================================
+Total Events: 16
+Failed Login Events: 12
+Successful Login Events: 2
+Unknown Events: 2
+
+FAILED LOGIN ANALYSIS
+------------------------------------------------------------
+IP Address: 192.168.1.50
+Failed Attempts: 4
+Targeted Users: admin, root, test
+Risk Level: MEDIUM
+------------------------------------------------------------
+IP Address: 10.0.0.15
+Failed Attempts: 2
+Targeted Users: root
+Risk Level: LOW
+------------------------------------------------------------
+IP Address: 203.0.113.45
+Failed Attempts: 6
+Targeted Users: root
+Risk Level: HIGH
+------------------------------------------------------------
+
+SUSPICIOUS ACTIVITY ALERTS
+------------------------------------------------------------
+Suspicious IP: 192.168.1.50 | Failed Attempts: 4 | Risk: MEDIUM
+Suspicious IP: 203.0.113.45 | Failed Attempts: 6 | Risk: HIGH
